@@ -204,10 +204,10 @@
     $get_products = mysqli_query($connect, "SELECT * FROM products ORDER BY id_products DESC");
 
 // Show Slider
-    $show_slider = mysqli_query($connect, "SELECT * FROM slider ORDER BY id_slider DESC LIMIT 5");
+    $show_slider = mysqli_query($connect, "SELECT * FROM slider ORDER BY id_slider ASC LIMIT 5");
 
 // Show Slider Desktop
-    $show_sliderDesk = mysqli_query($connect, "SELECT * FROM slider ORDER BY id_slider DESC LIMIT 5");
+    $show_sliderDesk = mysqli_query($connect, "SELECT * FROM slider ORDER BY id_slider ASC LIMIT 5");
     
 // Show Featured mobile
     $show_featured = mysqli_query($connect, "SELECT * FROM featured ORDER BY id_featured DESC LIMIT 2");

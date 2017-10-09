@@ -32,7 +32,7 @@
                 <p class="text-justify">
                    A permanente de c&iacute;lios permite a curvatura dos fios, proporcionando um olhar mais atraente e marcante dispensando o uso de m&aacute;scaras (rimel).
                 </p>
-                <h4 class="green-title">Permanente de c&iacute;lios</h4>
+                <h4 class="green-title">Tintura de c&iacute;lios</h4>
                 <p class="text-justify">
                    A tintura de c&iacute;lios consiste na aplica&ccedil;&atilde;o de uma colora&ccedil;&atilde;o espec&iacute;fica para os fios. A combina&ccedil;&atilde;o de permanente e tintura para c&iacute;lios, resulta-se num resultado id&ecirc;ntico a m&aacute;scara (rimel) de cor escura. Os fios ficam curvados e tingidos ao mesmo tempo, dispensando o uso de maquiagens.
                 </p>

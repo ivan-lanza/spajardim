@@ -183,45 +183,7 @@
                                 </p>
                             </div>
                         </div>
-                        
-                        <div class="panel-heading" role="tab" id="headingTen">
-                            <h4 class="panel-title">
-                                <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTen" aria-expanded="true" aria-controls="collapseTen">
-                                    Shiatsu <span class="glyphicon glyphicon-menu-down pull-right"></span>
-                                </a>
-                            </h4>
-                        </div>
-                        <div id="collapseTen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTen">
-                            <div class="panel-body">
-                                <img src="imgs/img-tratamentos-corporais-shiatsu.jpg" class="img-responsive">
-                                <p class="text-justify">
-                                    T&eacute;cnica Corporal e facial que visa o bem estar f&iacute;sico, energ&eacute;tico e mental, atrav&eacute;s de press&otilde;es exercidas sobre determinadas regi&otilde;es do corpo.
-                                    <br><br>
-                                    Favorece o equil&iacute;brio energ&eacute;tico, diminui os n&oacute;dulos de tens&atilde;o e leva a intenso relaxamento.
-                                </p>
-                            </div>
-                        </div>
-                        
-                        <div class="panel-heading" role="tab" id="headingEleven">
-                            <h4 class="panel-title">
-                                <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEleven" aria-expanded="true" aria-controls="collapseEleven">
-                                    Ayurv&eacute;dica <span class="glyphicon glyphicon-menu-down pull-right"></span>
-                                </a>
-                            </h4>
-                        </div>
-                        <div id="collapseEleven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEleven">
-                            <div class="panel-body">
-                                <img src="imgs/img-tratamentos-corporais-ayurvedica.jpg" class="img-responsive">
-                                <p class="text-justify">
-                                    Massagem de origem indiana que utiliza &oacute;leos essenciais, toques profundos, alongamentos e tra&ccedil;&otilde;es, que estimulam a circula&ccedil;&atilde;o sangu&iacute;nea, a capacidade respirat&oacute;ria e o sistema linf&aacute;tico, eliminando as toxinas retidas nos &oacute;rg&atilde;os e tecidos do corpo.
-                                    <br><br>
-                                    Propicia realinhamento postural, aumenta a flexibilidade dos m&uacute;sculos e articula&ccedil;&otilde;es e alivia todos os tipos de tens&otilde;es.
-                                    <br><br>
-                                    Fortalece o sistema imunol&oacute;gico, equilibra os Chakras, liberando o fluxo de energia vital e anulando o stress e a depress&atilde;o, Excelente no combate ao reumatismo, artrite e celulite, al&eacute;m de promover a renova&ccedil;&atilde;o celular, retardando o processo de envelhecimento.
-                                </p>
-                            </div>
-                        </div>
-                        
+                                               
                         <div class="panel-heading" role="tab" id="headingTwelve">
                             <h4 class="panel-title">
                                 <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwelve" aria-expanded="true" aria-controls="collapseTwelve">
