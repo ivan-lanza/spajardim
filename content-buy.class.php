@@ -102,18 +102,18 @@
 ?>
 <!-- End Modal 3 -->         
         
-        
+        <!-- BOTAO PAGSEGURO FIXED BOTTOM descontinuado
         <nav class="navbar navbar-default navbar-fixed-bottom bg-pagSeguro hidden-md hidden-lg">
           <div class="container">
               <div class="col-xs-12 col-xs-offset-2 btn-pagSeguro">
-                <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
+               
 <form action="https://pagseguro.uol.com.br/checkout/v2/cart.html?action=add" method="post">
-<!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+
 <input type="hidden" name="itemCode" value="753F413F1515EA266419DFA48E52B186" />
 <input type="hidden" name="iot" value="button" />
 <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/pagamentos/205x30-comprar.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
 </form>
-<!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
+-->
               </div>
           </div>
         </nav>
